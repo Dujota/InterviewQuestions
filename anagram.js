@@ -13,4 +13,4 @@ isAnagram = (word1, word2) => {
   );
 };
 
-console.log(isAnagram('dog', 'god    '));
+console.log(isAnagram('dog', 'god    ')); // true
